@@ -1,5 +1,5 @@
 {
-  "name": "fw",
+  "name": "fw-core",
   "version": "1.7.3",
   "author": "delong",
   "main": "index.js"
